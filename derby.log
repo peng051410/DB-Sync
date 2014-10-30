@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Oct 30 11:03:59 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0149-5f02-7d42-000000858b08 
+on database directory E:\Database\ETP_511089  with class loader sun.misc.Launcher$AppClassLoader@1004901 
+Loaded from file:/D:/thxopen-work/Gt3-DataSync/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_34-b04
+user.dir=D:\thxopen-work\Gt3-DataSync
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

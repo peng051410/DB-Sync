@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomDdlUtils-1.0-src-use:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomDdlUtils_1_0_src_use_jar</output-path>
+    <root id="archive" name="DdlUtils-1.0-src-use.jar">
+      <element id="module-output" name="DdlUtils-1.0-src-use" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-dbcp-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/jakarta-oro-2.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-collections-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/build-only/junit-3.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-digester-1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-lang-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-beanutils-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-codec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/dom4j-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-logging-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/log4j-1.2.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/build-only/ant-1.6.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DdlUtils-1.0-src-use/lib/commons-betwixt-0.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
